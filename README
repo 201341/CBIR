@@ -2,5 +2,5 @@
 
 In hashing algorithm, each term in the database is represented by a compact binary code, which not only significantly reduces the data storage, but also reduce the data dimension. So recently hashing based approximate nearest neighbors search has attracted much attention, and extensive hashing algorithms have been proposed. I  designed and implemented a prototype retrieval system based on a hashing. The system provides visual retrieval services for hashing-based image retrieval’s research, and meantime it can run current mainstream hashing algorithms .
 
-![HBIR](./HBIR.PNG)
+![HBIR](https://github.com/201341/CBIR/blob/master/HBIR.PNG)
 
